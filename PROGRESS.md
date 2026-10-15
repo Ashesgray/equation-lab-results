@@ -2,7 +2,7 @@
 
 Research project owner / requested result credit: **Ashley Kalkowski**.
 
-Snapshot: **2026-10-15T10:06:03Z**. Engine checkpoint: 2026-10-15T10:05:34.9855675Z.
+Snapshot: **2026-10-15T12:07:13Z**. Engine checkpoint: 2026-10-15T12:07:05.4950731Z.
 
 | Measure | Observed value |
 |---|---:|
@@ -12,8 +12,8 @@ Snapshot: **2026-10-15T10:06:03Z**. Engine checkpoint: 2026-10-15T10:05:34.98556
 | Worker limit / scheduled duty | 16 / 70% |
 | Exact completions reported by engine | 0 |
 | Exact results passing both local checkers | 0 |
-| Numerical candidates recorded (not proofs) | 1984 |
-| Scheduled checks completed / planned | 2 / 18 |
+| Numerical candidates recorded (not proofs) | 2105 |
+| Scheduled checks completed / planned | 3 / 18 |
 | Missed scheduled checks | 0 |
 | Completed observations waiting for export | 0 |
 
@@ -27,22 +27,22 @@ Each counter uses its adapter's work units. These are not interchangeable trial 
 
 | Family | Enabled / configured | Reported work units | Completed batches |
 |---|---:|---:|---:|
-| Beal | 24 / 24 | 2,298,495,259 | 45,868 |
+| Beal | 24 / 24 | 3,399,577,514 | 65,319 |
 | almost-perfect | 0 / 1 | 0 | 0 |
 | andrica | 0 / 1 | 0 | 0 |
-| brocard | 1 / 1 | 16,623 | 7,832 |
+| brocard | 1 / 1 | 18,830 | 10,039 |
 | erdos-moser | 0 / 1 | 0 | 0 |
-| factor-contributions | 1629 / 1629 | 323,565,738 | 45,866 |
-| giuga | 1 / 1 | 57,842,117 | 15,121 |
-| legendre | 1 / 1 | 5,002,059 | 14,905 |
-| lehmer | 1 / 1 | 58,334,215 | 15,287 |
-| magic-square-squares | 1 / 1 | 3,153,499,427 | 16,012 |
+| factor-contributions | 1629 / 1629 | 473,606,048 | 65,318 |
+| giuga | 1 / 1 | 78,790,105 | 22,468 |
+| legendre | 1 / 1 | 6,376,895 | 22,165 |
+| lehmer | 1 / 1 | 79,354,331 | 22,697 |
+| magic-square-squares | 1 / 1 | 4,853,159,572 | 23,434 |
 | odd-perfect | 0 / 1 | 0 | 0 |
-| perfect-cuboid | 1 / 1 | 930,138,482 | 21,724 |
+| perfect-cuboid | 1 / 1 | 1,218,738,660 | 29,137 |
 | quasiperfect | 0 / 1 | 0 | 0 |
-| rational-square-distances | 1 / 1 | 2,802,058,869 | 15,747 |
-| three-body | 1 / 1 | 805,701 | 153,283 |
-| three-cubes | 1 / 1 | 18,248,457,763 | 21,886 |
+| rational-square-distances | 1 / 1 | 4,380,167,843 | 23,045 |
+| three-body | 1 / 1 | 900,870 | 172,735 |
+| three-cubes | 1 / 1 | 23,760,798,707 | 29,344 |
 
 The watch runs every two hours through **2026-10-16T18:05:07Z**, provided the PC is awake and Codex is running.
 
